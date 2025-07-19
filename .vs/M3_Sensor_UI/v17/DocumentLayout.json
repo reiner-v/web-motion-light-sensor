@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\m3_sensor_ui\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|solutionrelative:m3_sensor_ui\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\m3_sensor_ui\\logpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|solutionrelative:m3_sensor_ui\\logpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|c:\\users\\user\\downloads\\lightsensor-20250719t170035z-1-001\\lightsensor\\m3_sensor_ui\\m3_sensor_ui\\m3_sensor_ui\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|solutionrelative:m3_sensor_ui\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|c:\\users\\user\\downloads\\lightsensor-20250719t170035z-1-001\\lightsensor\\m3_sensor_ui\\m3_sensor_ui\\m3_sensor_ui\\logpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|solutionrelative:m3_sensor_ui\\logpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\m3_sensor_ui\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|solutionrelative:m3_sensor_ui\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\m3_sensor_ui\\rest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813F44B0-95D8-45D9-B947-3C7BBF78159D}|M3_Sensor_UI\\M3_Sensor_UI.csproj|solutionrelative:m3_sensor_ui\\rest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 102,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mystyle.css",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\mystyle.css",
+              "RelativeDocumentMoniker": "M3_Sensor_UI\\mystyle.css",
+              "ToolTip": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\mystyle.css",
+              "RelativeToolTip": "M3_Sensor_UI\\mystyle.css",
+              "ViewState": "AgIAANwAAAAAAAAAAAAwwPsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-19T17:13:08.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\HomePage.aspx",
+              "RelativeDocumentMoniker": "M3_Sensor_UI\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\HomePage.aspx",
+              "RelativeToolTip": "M3_Sensor_UI\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T17:13:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "M3_Sensor_UI\\HomePage.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\HomePage.aspx.cs",
+              "RelativeToolTip": "M3_Sensor_UI\\HomePage.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwFQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:13:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogPage.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\LogPage.aspx",
+              "RelativeDocumentMoniker": "M3_Sensor_UI\\LogPage.aspx",
+              "ToolTip": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\LogPage.aspx",
+              "RelativeToolTip": "M3_Sensor_UI\\LogPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T17:13:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\LogPage.aspx.cs",
+              "RelativeDocumentMoniker": "M3_Sensor_UI\\LogPage.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\LogPage.aspx.cs",
+              "RelativeToolTip": "M3_Sensor_UI\\LogPage.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwCoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:13:08.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "REST.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\REST.cs",
+              "RelativeDocumentMoniker": "M3_Sensor_UI\\REST.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\LightSensor-20250719T170035Z-1-001\\LightSensor\\M3_Sensor_UI\\M3_Sensor_UI\\M3_Sensor_UI\\REST.cs",
+              "RelativeToolTip": "M3_Sensor_UI\\REST.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:13:08.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

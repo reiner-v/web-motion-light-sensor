@@ -1,0 +1,253 @@
+﻿body {
+    text-align: center;
+    font-family: Inter,Arial,sans-serif;
+    background: url('Images/bg.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.labeltxt{
+    color:deeppink;
+    font-weight:bold;
+}
+
+    .labeltxt#mlslabel {
+        font-size: 1.6em;
+    }
+
+.statustxt {
+    color: hotpink;
+    font-weight: 700;
+    font-size: medium;
+}
+
+.labeltxt#Label1,#Label3,#modetxt,#powertxt{
+    font-size:1.5em;
+}
+
+.dispbox{
+    background-color:hotpink;
+    color:deeppink;
+}
+.dispbox#counttxt{
+    width:2em;
+}
+
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.col-80 {
+    width: 80%; 
+    height:12em;
+    float: left;
+}
+
+.col-10 {
+    width: 10%;
+    float: left;
+    margin-top:10em;
+}
+
+
+#pinkCloud {
+    width: 825px;
+    height: 420px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:13.5em;
+    position:relative;
+}
+.pos {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}
+
+.btnswitch{
+    width:6em;
+    height:3.5em;
+    margin-top: 1em;
+    font-size:1.5em;
+    font-weight:bold;
+    border-radius:1em;
+    border:none;
+}
+.btnswitch#btnon{
+    background-color:#77DD77;
+    margin-right:1.5em;
+}
+
+.btnswitch#btnoff{
+    background-color:#FF6961;
+    margin-left:1.5em;
+}
+.btnswitch#btnon:hover{
+    background-color: deeppink;
+    color: white;
+ }
+
+.btnswitch#btnoff:hover{
+    background-color: deeppink;
+    color: white;
+ }
+
+.btnswitch#btnon:active{
+    background-color: #77DD77;
+    outline:0.2em solid deeppink;
+}
+.btnswitch#btnon:active{
+    background-color: #FF6961;
+    outline:0.2em solid deeppink;
+}
+
+#btnlog {
+    width: 5em;
+    height: 2em;
+    position: absolute;
+    left: 0.5em;
+    font-size: 1.2em;
+    color:white;
+    font-weight: bold;
+    background-color: hotpink;
+    border:none;
+    border-radius:0.5em;
+}
+#btnlog:hover {
+    background-color: deeppink;
+    color: white;
+}
+
+#btnlog:active{
+    outline:0.2em solid deeppink;
+}
+#scroll {
+    overflow-y: scroll;
+    height: 500px;
+    width: 90%;
+    border:0.3em ridge deeppink;
+    left:10px;
+
+
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2em;
+    
+}
+.HeadSticky {
+    position: absolute;
+    //column-gap: 25em;
+    display:flex;
+    width: 85.62em;
+    top: 85px;
+    left: 84px;
+    margin: 0;
+    color:deeppink;
+}
+
+.col-cover {
+    color: white;
+    font-weight: bold;
+    background-color: deeppink;
+    position: absolute;
+    z-index: 1;
+    top: 86px;
+    left: 84px;
+    margin: 0;
+    display: flex;
+    width: 85.62em;
+}
+.col-label{
+    font-size:1.2em;
+    padding:0.1em 3em;
+
+}
+.col-label#Label7{
+    width:340px;
+
+}
+.col-label#Label4{
+     width:205px;
+}
+.col-label#Label5{
+    width:260px;
+}
+.col-label#Label6{
+    width:50px;
+}
+
+
+#GridView1 {
+    margin-top: 25px;
+    width: 84.4em;
+}
+.rowgrid:hover{
+    background-color:deeppink!important;
+    border-top:solid;
+    color:white;
+}
+.pagegrid{
+    color:deeppink;
+
+}
+.pagegrid:hover{
+    outline:0.1em solid deeppink;
+}
+
+.filterbox{
+    width:10em;
+    height:3em;
+    border: 0.1em solid deeppink;
+    border-radius:20em;
+    color:deeppink;
+}
+
+#btnfilter,#btnlive, #btnreset{
+    width: 10em;
+    height: 3em;
+    background-color:deeppink;
+    border:none;
+    border-radius: 20em;
+    color: white;
+    font-weight:bold;
+}
+#btnlive {
+    position: absolute;
+    bottom: 10em;
+    right:5em;
+}
+
+
+
+#alarmtxt{
+    font-weight:800;
+    color:red;
+    font-size:2em;
+
+        
+}
+@media only screen and (max-width: 800px) {
+    #pinkCloud {
+        width: 425px;
+        height: 220px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10.5em;
+        position: relative;
+    }
+@media only screen and (max-width: 600px) {
+    .scroll {
+        width:300px;
+    }
+    #GridView1{
+        width:300px;
+       background-color:wheat;
+    }
+}
